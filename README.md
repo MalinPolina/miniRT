@@ -2,7 +2,7 @@
 Simple RayTracer
 
 
-Input file template:
+Input file template {
 
 R   x,y                                   //resolituon
 
@@ -19,3 +19,4 @@ sq	x,y,z	x,y,z	diameter	r,g,b 			    // square - center - orientation vector
 cy	x,y,z	x,y,z	diameter	height	r,g,b	  // cylinder - coordinates - orientation vector
 
 tr	x,y,z	x,y,z	x,y,z		r,g,b 			      // triangle - edges
+}
