@@ -2,6 +2,13 @@
 Simple RayTracer
 
 
+
+
+
+
+
+
+
 Input file template {
 
 R   x,y                                   //resolituon
