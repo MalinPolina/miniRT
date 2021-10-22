@@ -6,11 +6,11 @@ Simple RayTracer
 
 ```c
 
-R   x,y                               //resolituon
+R   x,y                      //resolituon
 
-A	ratio	r,g,b 								 // ambient light
+A	ratio	r,g,b 					// ambient light
 
-c	x,y,z	x,y,z 		             // camera
+c	x,y,z	x,y,z 		                    // camera
 
 sp	x,y,z	diameter  r,g,b                         // sphere - center
 pl	x,y,z	x,y,z	r,g,b                           // plane - coordinates - orientation vector
