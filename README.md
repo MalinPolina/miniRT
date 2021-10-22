@@ -1,12 +1,22 @@
 # miniRT
 Simple RayTracer
 
+## Input
+
+```c
+./miniRT filename.rt
+```
+To save as .bmp:
+
+```c
+./miniRT filename.rt --save
+```
 
 ## Input file template
 
 ```c
 
-R   x,y                                                  //resolituon
+R   x,y                                                 //resolituon
 
 A	ratio	r,g,b 					// ambient light
 
