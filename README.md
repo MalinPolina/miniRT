@@ -1,7 +1,17 @@
 # miniRT
-Simple RayTracer
+Very basic RayTracer
 
-## Input
+## Specifics
+
+Uses the miniLibX
+Allows window management
+
+Can render these simple geometric objects: plane, sphere, cylinder, square, triangle
+
+Can have multiple cameras: use left and right arrow keys to switch between them
+Has a zoom option: use up and down arrow keys
+
+## Usage
 
 ```c
 ./miniRT filename.rt
@@ -11,6 +21,10 @@ To save as .bmp:
 ```c
 ./miniRT filename.rt --save
 ```
+
+## Exit
+
+Press ESC or click on the red cross on the window’s frame
 
 ## Input file template
 
