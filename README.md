@@ -30,7 +30,7 @@ Press ESC or click on the red cross on the window’s frame
 
 ```c
 
-R         x,y                                             //resolituon
+R        x,y                                             //resolituon
 
 A	ratio	r,g,b 					// ambient light
 
