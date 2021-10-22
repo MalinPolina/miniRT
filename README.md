@@ -6,7 +6,7 @@ Simple RayTracer
 
 ```c
 
-R   x,y                           //resolituon
+R   x,y                                             //resolituon
 
 A	ratio	r,g,b 					// ambient light
 
